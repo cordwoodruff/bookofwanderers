@@ -1,2 +1,2 @@
 # bookofwanderers
-collective storyteller project
+A Visionary Works project  for collective social story telling
